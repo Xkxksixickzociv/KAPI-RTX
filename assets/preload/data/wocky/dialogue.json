@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Tu! tanto tiempo sin verte!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapiwap",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "trayendo a una nuevas chicas en tu cita?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfnormal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "si, por que?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapiwap",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ellas no estan en tu liga..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ellas son perfectas para mi!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfwave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "haber que nos teneis!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfwhat",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...enserio chicas?"
+		}
+	]
+}
