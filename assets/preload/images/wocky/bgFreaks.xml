@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgFreaks.png">
+	
+	
+	<SubTexture name="Bottom Level Boppers0000" x="0" y="10" width="1280" height="700" />
+	<SubTexture name="Bottom Level Boppers0001" x="1280" y="10" width="1280" height="700" />
+	<SubTexture name="Bottom Level Boppers0002" x="1280" y="10" width="1280" height="700" />
+	<SubTexture name="Bottom Level Boppers0003" x="0" y="710" width="1280" height="700" />
+	<SubTexture name="Bottom Level Boppers0004" x="0" y="710" width="1280" height="700" />
+	<SubTexture name="Bottom Level Boppers0005" x="0" y="710" width="1280" height="700" />
+	<SubTexture name="Bottom Level Boppers0006" x="1280" y="710" width="1280" height="700" />
+	<SubTexture name="Bottom Level Boppers0007" x="1280" y="710" width="1280" height="700" />
+	<SubTexture name="Bottom Level Boppers0008" x="1280" y="710" width="1280" height="700" />
+</TextureAtlas>

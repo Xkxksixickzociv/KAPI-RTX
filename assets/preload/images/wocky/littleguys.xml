@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="littleguys.png">
+	
+	
+	<SubTexture name="littleguys0000" x="0" y="0" width="312" height="330" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+	<SubTexture name="littleguys0001" x="0" y="0" width="312" height="330" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+	<SubTexture name="littleguys0002" x="312" y="0" width="312" height="332" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+	<SubTexture name="littleguys0003" x="312" y="0" width="312" height="332" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+	<SubTexture name="littleguys0004" x="625" y="0" width="312" height="336" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+	<SubTexture name="littleguys0005" x="625" y="0" width="312" height="336" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+	<SubTexture name="littleguys0006" x="937" y="0" width="312" height="337" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+	<SubTexture name="littleguys0007" x="937" y="0" width="312" height="337" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+	<SubTexture name="littleguys0008" x="1250" y="0" width="312" height="337" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+	<SubTexture name="littleguys0009" x="1250" y="0" width="312" height="337" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+	<SubTexture name="littleguys0010" x="1562" y="0" width="312" height="337" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+	<SubTexture name="littleguys0011" x="1562" y="0" width="312" height="337" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+</TextureAtlas>
