@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gfnormal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no esta tan mal para ser un gato!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "viste bf te dije me adoran?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfwhat",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "kapi eso no significa ni mierdas"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "seguro. vamos a la siguiente"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapimad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no creas que te lo ponga facil nuv..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfnormal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep di bop (ta bien)"
+		}
+	]
+}
