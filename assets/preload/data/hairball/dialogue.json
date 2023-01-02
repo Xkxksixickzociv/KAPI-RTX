@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gflaugh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ohhhh chicos..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapimad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "vamos. obviamente te gane."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfwhat",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "jajajajaja nuv, estaras bromeando'."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapistare",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapimad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "'eso vamos te mostrare de lo que soy capaz."
+		}
+	]
+}
